@@ -30,7 +30,7 @@ export const Navbar = () => {
           Logout
         </button>
       ) : (
-        <a href="http://localhost:8888/login">
+        <a href="https://spotify-backend-1yfa.onrender.com/login">
           <button className="p-1 font-bold bg-black h-10 w-[6rem] rounded-3xl text-white flex justify-center items-center">
             Login
           </button>
